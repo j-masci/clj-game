@@ -1,6 +1,4 @@
 (ns do
-  (:require core))
+  (:require game))
 
 (println "..do..")
-
-(println core/state)
